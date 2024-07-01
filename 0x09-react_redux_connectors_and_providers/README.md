@@ -47,5 +47,5 @@ Explore and complete the following tasks to master Redux integration:
 | Container/Component                 | Refactor Notifications component into a functional component and create a container component.     |*
 
 ## 🙋‍♂️ Author
-- **Name**: [NEAZYIT]
-- **GitHub**: [https://github.com/NEAZYIT]
+- **Name**: [Nomvelo]
+- **GitHub**: [https://github.com/Nomvelo22]
